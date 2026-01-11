@@ -1,0 +1,25 @@
+[project]
+name = "tildotzuv"
+version = "0.0.1"
+description = "сервис по парсу отзывов для тильды"
+authors = [
+    {name = "Суворов Андрей"}
+]
+license = {text = "MIT License"}
+[tool.poetry]
+name = "review-aggregator"
+version = "0.1.0"
+description = "Review Aggregation Service MVP"
+authors = ["Admin <admin@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.109.0"
+uvicorn = "^0.27.0"
+playwright = "^1.41.0"
+beautifulsoup4 = "^4.12.0"
+pydantic = "^2.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

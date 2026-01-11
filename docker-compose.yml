@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: review_api
+    ports:
+      - "8000:8000"
+    volumes:
+      # Монтируем код внутрь, чтобы работала авто-перезагрузка (hot reload)
+      - ./app:/app/app
+    environment:
+      - PYTHONUNBUFFERED=1
