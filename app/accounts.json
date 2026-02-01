@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "id": "account1",
+      "description": "Аккаунт без прокси для тестирования",
+      "login": "",
+      "password": "",
+      "proxy": "",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "cookies": [],
+      "device": "iPhone 13 Pro",
+      "locale": "ru-RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
+      "id": "account2",
+      "description": "Аккаунт с HTTP прокси",
+      "login": "",
+      "password": "",
+      "proxy": "http://494300202:5hrIZjjYavY4ZmOQlKIm@176.9.113.112:48000",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "cookies": [],
+      "device": "Desktop Chrome",
+      "locale": "ru-RU",
+      "timezone": "Europe/Moscow"
+    }
+  ]
+}

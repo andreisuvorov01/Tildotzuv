@@ -3,11 +3,27 @@ version: '3.8'
 services:
   api:
     build: .
-    container_name: review_api
     ports:
       - "8000:8000"
     volumes:
-      # Монтируем код внутрь, чтобы работала авто-перезагрузка (hot reload)
       - ./app:/app/app
     environment:
+      - HEADLESS=true
+      - DNS_CHECK=true
+      - PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
       - PYTHONUNBUFFERED=1
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - api
+    restart: unless-stopped

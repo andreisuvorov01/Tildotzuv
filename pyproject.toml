@@ -6,6 +6,7 @@ authors = [
     {name = "Суворов Андрей"}
 ]
 license = {text = "MIT License"}
+
 [tool.poetry]
 name = "review-aggregator"
 version = "0.1.0"
@@ -16,9 +17,24 @@ authors = ["Admin <admin@example.com>"]
 python = "^3.10"
 fastapi = "^0.109.0"
 uvicorn = "^0.27.0"
-playwright = "^1.41.0"
+patchright = "^1.57.0"
+playwright-stealth = "^1.0.6"
 beautifulsoup4 = "^4.12.0"
 pydantic = "^2.6.0"
+pydantic-settings = "^2.12.0"
+curl-cffi = "^0.5.10"
+capsolver = "^1.0.0"
+selenium = "^4.17.2"
+webdriver-manager = "^4.0.1"
+requests-html = "^0.10.0"
+cloudscraper = "^1.2.71"
+undetected-chromedriver = "^3.5.5"
+fake-useragent = "^1.4.0"
+curl_cffi = "^0.5.10"
+nodriver = "^0.35.0"
+seleniumbase = "^4.24.0"
+drissionpage = "^4.0.0"
+tls-client = "^0.2.2"
 
 [build-system]
 requires = ["poetry-core"]

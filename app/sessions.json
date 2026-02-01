@@ -1,0 +1,1118 @@
+{
+  "2045e919-375c-4ec4-a2cf-1187e8e3fc29": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T11:07:33.586060",
+    "last_accessed": "2026-01-26T11:07:44.071537",
+    "expires_at": "2026-01-27T11:07:33.586488"
+  },
+  "e0f907d6-4827-4b2b-b497-2dc330dea180": {
+    "data": {
+      "url": "https://www.sberbank-ast.ru/UnitedPurchaseList.aspx",
+      "platform": "sber",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 8,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T11:08:33.072167",
+    "last_accessed": "2026-01-26T11:09:42.058385",
+    "expires_at": "2026-01-27T11:08:33.072181"
+  },
+  "2d834456-a60d-4ee4-8f0e-ac28d089c22c": {
+    "data": {
+      "url": "https://www.roseltorg.ru/procedures/search?sale=1&status%5B%5D=5&status%5B%5D=0&status%5B%5D=1&currency=all&place=fkr&source%5B%5D=13&page=1",
+      "platform": "rosel",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 10,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T11:10:26.327131",
+    "last_accessed": "2026-01-26T11:10:29.059348",
+    "expires_at": "2026-01-27T11:10:26.327145"
+  },
+  "264f9431-6443-4cef-93dd-16e62bdfed4a": {
+    "data": {
+      "url": "https://www.roseltorg.ru/procedures/search?sale=1&status%5B%5D=5&status%5B%5D=0&status%5B%5D=1&currency=all&place=fkr&source%5B%5D=13&page=1",
+      "platform": "rosel",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": "500000"
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 10,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T11:10:39.728263",
+    "last_accessed": "2026-01-26T11:10:42.638840",
+    "expires_at": "2026-01-27T11:10:39.728271"
+  },
+  "7087b85d-416a-49c7-94c0-2650bc3d48ed": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": "500000"
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 10,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T11:10:59.908637",
+    "last_accessed": "2026-01-26T11:11:02.796824",
+    "expires_at": "2026-01-27T11:10:59.908656"
+  },
+  "87fb674e-9b96-4b38-9dfa-dbae138794bd": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 100,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": "500000"
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 100,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T11:12:29.758919",
+    "last_accessed": "2026-01-26T11:12:35.735260",
+    "expires_at": "2026-01-27T11:12:29.758928"
+  },
+  "d9f3fc94-60c3-46ee-95dd-19dca1c8f4d0": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 10,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T14:22:55.869190",
+    "last_accessed": "2026-01-26T14:22:59.290423",
+    "expires_at": "2026-01-27T14:22:55.869216"
+  },
+  "3a096bdd-e6ed-40c8-9383-03f9e6e6cfb2": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "status": "error",
+      "error": "cannot import name 'scraper_engine' from 'app.services.scraper_engine' (/app/app/services/scraper_engine.py)"
+    },
+    "created_at": "2026-01-26T14:23:03.535767",
+    "last_accessed": "2026-01-26T14:23:03.541276",
+    "expires_at": "2026-01-27T14:23:03.535781"
+  },
+  "ee999537-4ba4-42da-8044-660ef5c059e8": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "status": "error",
+      "error": "cannot import name 'scraper_engine' from 'app.services.scraper_engine' (/app/app/services/scraper_engine.py)"
+    },
+    "created_at": "2026-01-26T14:23:05.071484",
+    "last_accessed": "2026-01-26T14:23:05.080210",
+    "expires_at": "2026-01-27T14:23:05.071504"
+  },
+  "d2b79c08-1433-4956-8072-4be7ff880cba": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T14:52:10.248455",
+    "last_accessed": "2026-01-26T14:52:31.152805",
+    "expires_at": "2026-01-27T14:52:10.251069"
+  },
+  "5b7e654c-8430-43f4-82ef-e58fe236a61f": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T14:55:34.124741",
+    "last_accessed": "2026-01-26T14:55:44.910515",
+    "expires_at": "2026-01-27T14:55:34.124840"
+  },
+  "298d7344-6a24-475d-8e62-0c19d71bcc17": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:00:00.363050",
+    "last_accessed": "2026-01-26T15:00:22.551588",
+    "expires_at": "2026-01-27T15:00:00.363079"
+  },
+  "eca15b7a-887c-4879-bee1-b6d1b30d55a0": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:11:57.963543",
+    "last_accessed": "2026-01-26T15:12:19.420587",
+    "expires_at": "2026-01-27T15:11:57.964456"
+  },
+  "0edff2db-ff01-4680-9428-9bd25846765d": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:30:00.124929",
+    "last_accessed": "2026-01-26T15:30:18.308160",
+    "expires_at": "2026-01-27T15:30:00.126993"
+  },
+  "1b9a289e-ecc7-474c-9194-41b3a5a55a22": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:31:10.412575",
+    "last_accessed": "2026-01-26T15:31:23.362608",
+    "expires_at": "2026-01-27T15:31:10.412597"
+  },
+  "35009228-6a9c-4753-918a-0a989831bfd7": {
+    "data": {
+      "url": "https://www.sberbank-ast.ru/UnitedPurchaseList.aspx",
+      "platform": "sber",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 8,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:31:57.586346",
+    "last_accessed": "2026-01-26T15:32:30.678819",
+    "expires_at": "2026-01-27T15:31:57.586529"
+  },
+  "306b0095-089e-4350-be03-66751e1d6d08": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:43:23.771777",
+    "last_accessed": "2026-01-26T15:43:48.920546",
+    "expires_at": "2026-01-27T15:43:23.772027"
+  },
+  "dc3e16db-8eba-4550-a4d4-ecc4d2e9af7a": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:46:44.518946",
+    "last_accessed": "2026-01-26T15:47:22.911540",
+    "expires_at": "2026-01-27T15:46:44.519275"
+  },
+  "e1ff227b-a67f-4153-b7e6-d43ee2b315a3": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T15:51:19.305098",
+    "last_accessed": "2026-01-26T15:51:48.579605",
+    "expires_at": "2026-01-27T15:51:19.306151"
+  },
+  "788d2d13-f865-495c-b4b3-9ae9b9b5d11d": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T16:01:45.643544",
+    "last_accessed": "2026-01-26T16:02:09.810401",
+    "expires_at": "2026-01-27T16:01:45.646123"
+  },
+  "2f24728d-b9f3-42e7-af66-33a681c36ddf": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T16:36:04.147605",
+    "last_accessed": "2026-01-26T16:36:31.060349",
+    "expires_at": "2026-01-27T16:36:04.147618"
+  },
+  "8bf91d36-c604-4ed8-9fcc-98170f8b53ee": {
+    "data": {
+      "url": "https://www.rts-tender.ru/poisk/poisk-44-fz?keywords=",
+      "platform": "rts",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "datetime.now().isoformat()",
+      "completed_at": "datetime.now().isoformat()",
+      "reviews_count": 1,
+      "status": "completed"
+    },
+    "created_at": "2026-01-26T16:42:54.769254",
+    "last_accessed": "2026-01-26T16:43:33.193910",
+    "expires_at": "2026-01-27T16:42:54.769274"
+  },
+  "683e4111-1595-4d1d-857a-d6f7228902b8": {
+    "data": {
+      "url": "https://www.roseltorg.ru/procedures/search?sale=1&status%5B%5D=5&status%5B%5D=0&status%5B%5D=1&currency=all&place=fkr&source%5B%5D=13&page=1",
+      "platform": "rosel",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:16:51.175027"
+    },
+    "created_at": "2026-01-26T19:16:51.175537",
+    "last_accessed": "2026-01-26T19:16:51.175552",
+    "expires_at": "2026-01-27T19:16:51.175554"
+  },
+  "9d06d845-b9aa-4c99-99e8-6a33f4915546": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:16:53.940249"
+    },
+    "created_at": "2026-01-26T19:16:53.940271",
+    "last_accessed": "2026-01-26T19:16:53.940273",
+    "expires_at": "2026-01-27T19:16:53.940274"
+  },
+  "c9a181dd-849d-4140-a96c-c911f4a75962": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:17:14.674278"
+    },
+    "created_at": "2026-01-26T19:17:14.674307",
+    "last_accessed": "2026-01-26T19:17:14.674309",
+    "expires_at": "2026-01-27T19:17:14.674310"
+  },
+  "1455a117-d441-45d3-89fc-9a3f33600ba9": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:18:32.355617"
+    },
+    "created_at": "2026-01-26T19:18:32.355651",
+    "last_accessed": "2026-01-26T19:18:32.355652",
+    "expires_at": "2026-01-27T19:18:32.355653"
+  },
+  "7caf45d8-79b8-4c9c-a308-3586506b3d01": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:18:53.041423"
+    },
+    "created_at": "2026-01-26T19:18:53.041438",
+    "last_accessed": "2026-01-26T19:18:53.041439",
+    "expires_at": "2026-01-27T19:18:53.041440"
+  },
+  "ddc0d25e-78c8-4315-b255-e78e0ff0cdab": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:18:54.007663"
+    },
+    "created_at": "2026-01-26T19:18:54.007676",
+    "last_accessed": "2026-01-26T19:18:54.007678",
+    "expires_at": "2026-01-27T19:18:54.007679"
+  },
+  "93f2d4c9-f5f0-46dc-8b17-07d49c42659c": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:18:54.457183"
+    },
+    "created_at": "2026-01-26T19:18:54.457199",
+    "last_accessed": "2026-01-26T19:18:54.457200",
+    "expires_at": "2026-01-27T19:18:54.457201"
+  },
+  "9ef16f24-47ec-427e-b629-0f9576ddb8b7": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:19:19.743902"
+    },
+    "created_at": "2026-01-26T19:19:19.743916",
+    "last_accessed": "2026-01-26T19:19:19.743917",
+    "expires_at": "2026-01-27T19:19:19.743918"
+  },
+  "8fc84b6f-fa7a-404e-91ab-de2f085e7952": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:19:41.371464"
+    },
+    "created_at": "2026-01-26T19:19:41.371493",
+    "last_accessed": "2026-01-26T19:19:41.371495",
+    "expires_at": "2026-01-27T19:19:41.371497"
+  },
+  "407e9735-cd57-42a2-80f5-99401ed82750": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:19:41.891138"
+    },
+    "created_at": "2026-01-26T19:19:41.891154",
+    "last_accessed": "2026-01-26T19:19:41.891155",
+    "expires_at": "2026-01-27T19:19:41.891157"
+  },
+  "826ab7f2-f0f2-41e4-ad7e-7432f89b319f": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:19:43.930603"
+    },
+    "created_at": "2026-01-26T19:19:43.930627",
+    "last_accessed": "2026-01-26T19:19:43.930629",
+    "expires_at": "2026-01-27T19:19:43.930631"
+  },
+  "bdfb59e1-fde2-4b28-8fb4-77682a66a675": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:23:14.967468"
+    },
+    "created_at": "2026-01-26T19:23:14.967504",
+    "last_accessed": "2026-01-26T19:23:14.967505",
+    "expires_at": "2026-01-27T19:23:14.967506"
+  },
+  "b45fa88b-6667-401b-b666-91ae5e8816ea": {
+    "data": {
+      "url": "https://zakupki.gov.ru/epz/order/extendedsearch/results.html",
+      "platform": "zakupki",
+      "filters": {
+        "search_text": "",
+        "sort_by": "UPDATE_DATE",
+        "ascending": true,
+        "page": 1,
+        "records_per_page": 10,
+        "law_types": {
+          "fz44": true,
+          "fz223": true,
+          "af": true
+        },
+        "price_range": {
+          "min": "",
+          "max": ""
+        },
+        "date_range": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "created_at": "2026-01-26T19:23:17.462406"
+    },
+    "created_at": "2026-01-26T19:23:17.462430",
+    "last_accessed": "2026-01-26T19:23:17.462432",
+    "expires_at": "2026-01-27T19:23:17.462433"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "0.0.0.0",
+      "listen_port": 2080,
+      "set_system_proxy": false
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "http",
+      "tag": "proxy",
+      "server": "176.9.113.112",
+      "server_port": 48000,
+      "username": "494300202",
+      "password": "5hrIZjjYavY4ZmOQlKIm"
+    }
+  ]
+}
