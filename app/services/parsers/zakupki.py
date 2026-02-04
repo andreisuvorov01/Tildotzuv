@@ -26,7 +26,7 @@ class ZakupkiParser(BaseParser):
     
     def create_filtered_url(self, base_url: str = None, **filter_params) -> str:
         """Создает URL с фильтрами"""
-        filters = ZakupkiFilters()
+        filters = ZakupkiFilters.from_url(base_url) if base_url else ZakupkiFilters()
         
         # Применяем переданные фильтры
         if 'search_text' in filter_params:

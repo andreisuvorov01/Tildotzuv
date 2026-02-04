@@ -45,7 +45,6 @@ class BrowserManager:
                     "--disable-extensions",
                     "--disable-plugins",
                     "--disable-images",  # Для скорости
-                    "--disable-javascript",  # Может быть включен позже при необходимости
                     "--no-first-run",
                     "--disable-default-apps",
                     "--disable-sync",
@@ -69,6 +68,7 @@ class BrowserManager:
             self.browser = await self.playwright.chromium.launch(**launch_options)
         
         # Создаем уникальный контекст для аккаунта
+        account = account or {}
         context_options = {
             "viewport": {"width": 1920, "height": 1080},
             "user_agent": account.get("user_agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"),
@@ -88,7 +88,7 @@ class BrowserManager:
         enhance_stealth(context)
         
         # Генерируем уникальный ID для контекста
-        context_id = account.get("id", "default") if account else "default"
+        context_id = account.get("id", "default")
         self.contexts[context_id] = context
         
         return context
