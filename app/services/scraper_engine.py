@@ -89,7 +89,7 @@ class ScraperEngine:
         # Применяем фильтры если парсер поддерживает фильтрацию
         if filters and hasattr(scraper, 'create_filtered_url'):
             original_url = url
-            url = scraper.create_filtered_url(**filters)
+            url = scraper.create_filtered_url(base_url=url, **filters)
             logger.info(f"Applied filters, original URL: {original_url}")
             logger.info(f"New filtered URL: {url}")
 
@@ -160,7 +160,7 @@ class ScraperEngine:
             # Логин для Avito
             if account and "login" in account and "password" in account and "avito.ru" in url:
                 try:
-                    profile_check = await page.query_selector(".profile", timeout=5000)
+                    profile_check = await page.query_selector(".profile")
                     if not profile_check:
                         logger.info(f"Logging in with account {account['id']}")
                         login_success = await login_to_avito(page, account["login"], account["password"])

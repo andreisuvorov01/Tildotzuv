@@ -2,16 +2,20 @@
 Парсер для РТС-тендер (rts-tender.ru) с обходом Cloudflare
 """
 import requests
-import cloudscraper
 from app.services.parsers.base import BaseParser
 from app.schemas import ReviewItem
 from typing import List
-from urllib.parse import urlparse, parse_qs
 from bs4 import BeautifulSoup
 import logging
 import time
 import random
 import re
+
+try:
+    import cloudscraper
+    CLOUDSCRAPER_AVAILABLE = True
+except ImportError:
+    CLOUDSCRAPER_AVAILABLE = False
 
 logger = logging.getLogger(__name__)
 
@@ -253,6 +257,10 @@ class RtsTenderParser(BaseParser):
         """
         Получает HTML страницы с помощью cloudscraper для обхода Cloudflare
         """
+        if not CLOUDSCRAPER_AVAILABLE:
+            logger.warning("cloudscraper not available, using fallback requests")
+            return self._fallback_fetch(url)
+
         try:
             # Попробуем использовать cloudscraper для обхода Cloudflare
             scraper = cloudscraper.create_scraper(
