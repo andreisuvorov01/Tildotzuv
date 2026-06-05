@@ -1,0 +1,15 @@
+{
+  "name": "tildotzuv",
+  "version": "1.0.0",
+  "description": "Сервис по интеграции парсера отзывов в тильду",
+  "main": "src/cloudflare_crawler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
